@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [E-commerce site for Epkp64 association](https://willowy-malasada-57e5c0.netlify.app/)
 
-- 🌱 I’m currently learning **MERN Stack and twailwindcss**
+- 🌱 I’m currently learning **MERN Stack and tailwindcss**
 
 - 💬 Ask me about **React Express and NodeJs**
 
